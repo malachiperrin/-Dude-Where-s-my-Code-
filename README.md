@@ -14,4 +14,4 @@ Curious about the projects you'll find here? Many are still in the planning phas
 
 ## Stay Connected?
 
-I'm not rocking a massive Twitter following, just starting fresh with a new account. If you'd like to connect, feel free to follow me <a href="https://twitter.com/malachhhh_maybe" target="_blank">here</a>. I'll be sharing updates and, of course, some carefully planned tweets. See you there! 😄
+[comment] : <> (I'm not rocking a massive Twitter following, just starting fresh with a new account. If you'd like to connect, feel free to follow me <a href="https://twitter.com/malachhhh_maybe" target="_blank">here</a>. I'll be sharing updates and, of course, some carefully planned tweets. See you there! 😄)
