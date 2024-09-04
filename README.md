@@ -12,6 +12,6 @@ I recently made the decision to refresh my GitHub profile by deleting all my pro
 
 Curious about the projects you'll find here? Many are still in the planning phase as I ponder questions like, "Do I see myself finishing this?", "Do I have the time?", and "Am I being too ambitious?" While they may not reach the scale of Facebook or X, my commitment is to create quality projects, big or small. Expect anything! Whatever I publish, I'll take pride in, and at the end of the day, that's all that matters...I think 😂.
 
-## Stay Connected?
+[comment]:<> (## Stay Connected?)
 
 [comment]:<> (I'm not rocking a massive Twitter following, just starting fresh with a new account. If you'd like to connect, feel free to follow me <a href="https://twitter.com/malachhhh_maybe" target="_blank">here</a>. I'll be sharing updates and, of course, some carefully planned tweets. See you there! 😄)
